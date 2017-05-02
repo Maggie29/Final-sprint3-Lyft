@@ -31,7 +31,7 @@ img{
   left: 60%;
   top: 10px;
 }
-li,a{
+.box-nav li,a{
   display: inline-block;
   list-style: none;
   text-decoration: none;
@@ -97,4 +97,29 @@ box-information p{
 }
 .box-image img{
   height: 300px;
+}
+footer{
+  color: white;
+  position: relative;
+  background: #333447;
+}
+.login{
+  position: absolute;
+  left: 15%;
+  top:20px;
+}
+.partner{
+  position: absolute;
+  left: 35%;
+  top: 20px;
+}
+.learn{
+  position: absolute;
+  left: 55%;
+  top: 20px;
+}
+.image-footer{
+  position: absolute;
+  left: 80%;
+  top: 20px;
 }
