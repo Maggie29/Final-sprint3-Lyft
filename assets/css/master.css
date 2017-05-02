@@ -101,7 +101,8 @@ box-information p{
 footer{
   color: white;
   position: relative;
-  background: #333447;
+  background:#333447;
+  height: 300px;
 }
 .login{
   position: absolute;
@@ -117,6 +118,9 @@ footer{
   position: absolute;
   left: 55%;
   top: 20px;
+}
+.login ul, .partner ul, .learn ul{
+  list-style: none;
 }
 .image-footer{
   position: absolute;
